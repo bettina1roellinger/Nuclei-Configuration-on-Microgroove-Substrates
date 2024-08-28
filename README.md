@@ -1,5 +1,5 @@
 # Nuclei-Configuration-on-Microgroove-Substrates
-This repository contains all the code (Python scripts and Jupyter Notebooks) needed to cluster greyscale images of nuclei on micropatterned substrates
+This repository contains all the code (Python scripts and Jupyter Notebooks) needed to cluster grayscale images of nuclei on micropatterned substrates
 # Project Overview
 Various diseases including laminopathies and certain types of cancer are associated with abnormal nuclear mechanical properties that influence cellular and nuclear deformations in complex environments. Recently, microgrooves substrates designed to mimic the anisotropic topography of basement membrane have been shown to induce significant 3D nuclear deformations in various adherent cell types. Importantly, these deformations appear to be different in myoblast cells derived from laminopathy patients from those derived from normal individuals. Deep learning techniques encompassing image analysis have been widely used for medical application. Here we assess the ability of a variational autoencoder with gaussian mixture model to cluster the nuclei of myoblast cells with laminopathy-associated mutation on micropattern substrates. 
 # Getting Started 
