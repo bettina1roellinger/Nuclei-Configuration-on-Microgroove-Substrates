@@ -5,17 +5,19 @@ Various diseases including laminopathies and certain types of cancer are associa
 # Getting Started 
 Before you begin make sure you have all the prerequisites installed on your system:
 
-**1** Python: You'll need Python 3.7 for running the project.
+**1.** Python: You'll need Python 3.7 for running the project.
 
-**2** Pip: Make sure you have pip, the Python package manager, installed.
+**2.** Pip: Make sure you have pip, the Python package manager, installed.
+
 # Installation 
-**1.Clone the repository** Start by cloning this GitHub repository to your local machine
-**2.Create and activate a virtual environment** It's recommended to create a virtual environment to isolate your project dependencies
+**1. Clone the repository** Start by cloning this GitHub repository to your local machine
+
+**2. Create and activate a virtual environment** It's recommended to create a virtual environment to isolate your project dependencies
 ```python 
 conda create -n myenv 
 conda activate myenv
 ```
-**3.Install dependencies** 
+**3. Install dependencies** 
 
-**4.Explore the project and the code** This project is organized into distinct parts that can be used independently. We first addressed image processing to prepare for subsequent deep learning approaches. You will find various scripts for processing the images. The main code consists of multiple functions that you can utilize individually, depending on your needs and the quality of your grayscale images. You will also find a Jupyter Notebook in this repository that implements a Variational Autoencoder and a Gaussian Mixture Model algorithm, applied to the MNIST dataset and a grayscale nuclei image dataset. 
+**4. Explore the project and the code** This project is organized into distinct parts that can be used independently. We first addressed image processing to prepare for subsequent deep learning approaches. You will find various scripts for processing the images. The main code consists of multiple functions that you can utilize individually, depending on your needs and the quality of your grayscale images. You will also find a Jupyter Notebook in this repository that implements a Variational Autoencoder and a Gaussian Mixture Model algorithm, applied to the MNIST dataset and a grayscale nuclei image dataset. 
 
